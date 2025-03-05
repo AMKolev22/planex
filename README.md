@@ -7,7 +7,7 @@
 <br>
 
 ## 💻 About
-<p align="center">This is our take on the 2024 9th grade project about "Physics and Astrology". It's a realistic simulation visualisation, containing the Solar System
+<p align="center">This is our take on the 2024 grade project about "Physics and Astrology". It's a realistic simulation visualisation, containing the Solar System
 </p>
 <p align="center">
 
